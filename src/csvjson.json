@@ -1,0 +1,1402 @@
+[
+  {
+    "CustomerID": "0001",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 15,
+    "Spending": 39
+  },
+  {
+    "CustomerID": "0002",
+    "Genre": "Male",
+    "Age": 21,
+    "Income": 15,
+    "Spending": 81
+  },
+  {
+    "CustomerID": "0003",
+    "Genre": "Female",
+    "Age": 20,
+    "Income": 16,
+    "Spending": 6
+  },
+  {
+    "CustomerID": "0004",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 16,
+    "Spending": 77
+  },
+  {
+    "CustomerID": "0005",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 17,
+    "Spending": 40
+  },
+  {
+    "CustomerID": "0006",
+    "Genre": "Female",
+    "Age": 22,
+    "Income": 17,
+    "Spending": 76
+  },
+  {
+    "CustomerID": "0007",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 18,
+    "Spending": 6
+  },
+  {
+    "CustomerID": "0008",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 18,
+    "Spending": 94
+  },
+  {
+    "CustomerID": "0009",
+    "Genre": "Male",
+    "Age": 64,
+    "Income": 19,
+    "Spending": 3
+  },
+  {
+    "CustomerID": "0010",
+    "Genre": "Female",
+    "Age": 30,
+    "Income": 19,
+    "Spending": 72
+  },
+  {
+    "CustomerID": "0011",
+    "Genre": "Male",
+    "Age": 67,
+    "Income": 19,
+    "Spending": 14
+  },
+  {
+    "CustomerID": "0012",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 19,
+    "Spending": 99
+  },
+  {
+    "CustomerID": "0013",
+    "Genre": "Female",
+    "Age": 58,
+    "Income": 20,
+    "Spending": 15
+  },
+  {
+    "CustomerID": "0014",
+    "Genre": "Female",
+    "Age": 24,
+    "Income": 20,
+    "Spending": 77
+  },
+  {
+    "CustomerID": "0015",
+    "Genre": "Male",
+    "Age": 37,
+    "Income": 20,
+    "Spending": 13
+  },
+  {
+    "CustomerID": "0016",
+    "Genre": "Male",
+    "Age": 22,
+    "Income": 20,
+    "Spending": 79
+  },
+  {
+    "CustomerID": "0017",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 21,
+    "Spending": 35
+  },
+  {
+    "CustomerID": "0018",
+    "Genre": "Male",
+    "Age": 20,
+    "Income": 21,
+    "Spending": 66
+  },
+  {
+    "CustomerID": "0019",
+    "Genre": "Male",
+    "Age": 52,
+    "Income": 23,
+    "Spending": 29
+  },
+  {
+    "CustomerID": "0020",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 23,
+    "Spending": 98
+  },
+  {
+    "CustomerID": "0021",
+    "Genre": "Male",
+    "Age": 35,
+    "Income": 24,
+    "Spending": 35
+  },
+  {
+    "CustomerID": "0022",
+    "Genre": "Male",
+    "Age": 25,
+    "Income": 24,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0023",
+    "Genre": "Female",
+    "Age": 46,
+    "Income": 25,
+    "Spending": 5
+  },
+  {
+    "CustomerID": "0024",
+    "Genre": "Male",
+    "Age": 31,
+    "Income": 25,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0025",
+    "Genre": "Female",
+    "Age": 54,
+    "Income": 28,
+    "Spending": 14
+  },
+  {
+    "CustomerID": "0026",
+    "Genre": "Male",
+    "Age": 29,
+    "Income": 28,
+    "Spending": 82
+  },
+  {
+    "CustomerID": "0027",
+    "Genre": "Female",
+    "Age": 45,
+    "Income": 28,
+    "Spending": 32
+  },
+  {
+    "CustomerID": "0028",
+    "Genre": "Male",
+    "Age": 35,
+    "Income": 28,
+    "Spending": 61
+  },
+  {
+    "CustomerID": "0029",
+    "Genre": "Female",
+    "Age": 40,
+    "Income": 29,
+    "Spending": 31
+  },
+  {
+    "CustomerID": "0030",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 29,
+    "Spending": 87
+  },
+  {
+    "CustomerID": "0031",
+    "Genre": "Male",
+    "Age": 60,
+    "Income": 30,
+    "Spending": 4
+  },
+  {
+    "CustomerID": "0032",
+    "Genre": "Female",
+    "Age": 21,
+    "Income": 30,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0033",
+    "Genre": "Male",
+    "Age": 53,
+    "Income": 33,
+    "Spending": 4
+  },
+  {
+    "CustomerID": "0034",
+    "Genre": "Male",
+    "Age": 18,
+    "Income": 33,
+    "Spending": 92
+  },
+  {
+    "CustomerID": "0035",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 33,
+    "Spending": 14
+  },
+  {
+    "CustomerID": "0036",
+    "Genre": "Female",
+    "Age": 21,
+    "Income": 33,
+    "Spending": 81
+  },
+  {
+    "CustomerID": "0037",
+    "Genre": "Female",
+    "Age": 42,
+    "Income": 34,
+    "Spending": 17
+  },
+  {
+    "CustomerID": "0038",
+    "Genre": "Female",
+    "Age": 30,
+    "Income": 34,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0039",
+    "Genre": "Female",
+    "Age": 36,
+    "Income": 37,
+    "Spending": 26
+  },
+  {
+    "CustomerID": "0040",
+    "Genre": "Female",
+    "Age": 20,
+    "Income": 37,
+    "Spending": 75
+  },
+  {
+    "CustomerID": "0041",
+    "Genre": "Female",
+    "Age": 65,
+    "Income": 38,
+    "Spending": 35
+  },
+  {
+    "CustomerID": "0042",
+    "Genre": "Male",
+    "Age": 24,
+    "Income": 38,
+    "Spending": 92
+  },
+  {
+    "CustomerID": "0043",
+    "Genre": "Male",
+    "Age": 48,
+    "Income": 39,
+    "Spending": 36
+  },
+  {
+    "CustomerID": "0044",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 39,
+    "Spending": 61
+  },
+  {
+    "CustomerID": "0045",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 39,
+    "Spending": 28
+  },
+  {
+    "CustomerID": "0046",
+    "Genre": "Female",
+    "Age": 24,
+    "Income": 39,
+    "Spending": 65
+  },
+  {
+    "CustomerID": "0047",
+    "Genre": "Female",
+    "Age": 50,
+    "Income": 40,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0048",
+    "Genre": "Female",
+    "Age": 27,
+    "Income": 40,
+    "Spending": 47
+  },
+  {
+    "CustomerID": "0049",
+    "Genre": "Female",
+    "Age": 29,
+    "Income": 40,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0050",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 40,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0051",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 42,
+    "Spending": 52
+  },
+  {
+    "CustomerID": "0052",
+    "Genre": "Male",
+    "Age": 33,
+    "Income": 42,
+    "Spending": 60
+  },
+  {
+    "CustomerID": "0053",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 43,
+    "Spending": 54
+  },
+  {
+    "CustomerID": "0054",
+    "Genre": "Male",
+    "Age": 59,
+    "Income": 43,
+    "Spending": 60
+  },
+  {
+    "CustomerID": "0055",
+    "Genre": "Female",
+    "Age": 50,
+    "Income": 43,
+    "Spending": 45
+  },
+  {
+    "CustomerID": "0056",
+    "Genre": "Male",
+    "Age": 47,
+    "Income": 43,
+    "Spending": 41
+  },
+  {
+    "CustomerID": "0057",
+    "Genre": "Female",
+    "Age": 51,
+    "Income": 44,
+    "Spending": 50
+  },
+  {
+    "CustomerID": "0058",
+    "Genre": "Male",
+    "Age": 69,
+    "Income": 44,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0059",
+    "Genre": "Female",
+    "Age": 27,
+    "Income": 46,
+    "Spending": 51
+  },
+  {
+    "CustomerID": "0060",
+    "Genre": "Male",
+    "Age": 53,
+    "Income": 46,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0061",
+    "Genre": "Male",
+    "Age": 70,
+    "Income": 46,
+    "Spending": 56
+  },
+  {
+    "CustomerID": "0062",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 46,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0063",
+    "Genre": "Female",
+    "Age": 67,
+    "Income": 47,
+    "Spending": 52
+  },
+  {
+    "CustomerID": "0064",
+    "Genre": "Female",
+    "Age": 54,
+    "Income": 47,
+    "Spending": 59
+  },
+  {
+    "CustomerID": "0065",
+    "Genre": "Male",
+    "Age": 63,
+    "Income": 48,
+    "Spending": 51
+  },
+  {
+    "CustomerID": "0066",
+    "Genre": "Male",
+    "Age": 18,
+    "Income": 48,
+    "Spending": 59
+  },
+  {
+    "CustomerID": "0067",
+    "Genre": "Female",
+    "Age": 43,
+    "Income": 48,
+    "Spending": 50
+  },
+  {
+    "CustomerID": "0068",
+    "Genre": "Female",
+    "Age": 68,
+    "Income": 48,
+    "Spending": 48
+  },
+  {
+    "CustomerID": "0069",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 48,
+    "Spending": 59
+  },
+  {
+    "CustomerID": "0070",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 48,
+    "Spending": 47
+  },
+  {
+    "CustomerID": "0071",
+    "Genre": "Male",
+    "Age": 70,
+    "Income": 49,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0072",
+    "Genre": "Female",
+    "Age": 47,
+    "Income": 49,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0073",
+    "Genre": "Female",
+    "Age": 60,
+    "Income": 50,
+    "Spending": 49
+  },
+  {
+    "CustomerID": "0074",
+    "Genre": "Female",
+    "Age": 60,
+    "Income": 50,
+    "Spending": 56
+  },
+  {
+    "CustomerID": "0075",
+    "Genre": "Male",
+    "Age": 59,
+    "Income": 54,
+    "Spending": 47
+  },
+  {
+    "CustomerID": "0076",
+    "Genre": "Male",
+    "Age": 26,
+    "Income": 54,
+    "Spending": 54
+  },
+  {
+    "CustomerID": "0077",
+    "Genre": "Female",
+    "Age": 45,
+    "Income": 54,
+    "Spending": 53
+  },
+  {
+    "CustomerID": "0078",
+    "Genre": "Male",
+    "Age": 40,
+    "Income": 54,
+    "Spending": 48
+  },
+  {
+    "CustomerID": "0079",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 54,
+    "Spending": 52
+  },
+  {
+    "CustomerID": "0080",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 54,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0081",
+    "Genre": "Male",
+    "Age": 57,
+    "Income": 54,
+    "Spending": 51
+  },
+  {
+    "CustomerID": "0082",
+    "Genre": "Male",
+    "Age": 38,
+    "Income": 54,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0083",
+    "Genre": "Male",
+    "Age": 67,
+    "Income": 54,
+    "Spending": 41
+  },
+  {
+    "CustomerID": "0084",
+    "Genre": "Female",
+    "Age": 46,
+    "Income": 54,
+    "Spending": 44
+  },
+  {
+    "CustomerID": "0085",
+    "Genre": "Female",
+    "Age": 21,
+    "Income": 54,
+    "Spending": 57
+  },
+  {
+    "CustomerID": "0086",
+    "Genre": "Male",
+    "Age": 48,
+    "Income": 54,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0087",
+    "Genre": "Female",
+    "Age": 55,
+    "Income": 57,
+    "Spending": 58
+  },
+  {
+    "CustomerID": "0088",
+    "Genre": "Female",
+    "Age": 22,
+    "Income": 57,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0089",
+    "Genre": "Female",
+    "Age": 34,
+    "Income": 58,
+    "Spending": 60
+  },
+  {
+    "CustomerID": "0090",
+    "Genre": "Female",
+    "Age": 50,
+    "Income": 58,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0091",
+    "Genre": "Female",
+    "Age": 68,
+    "Income": 59,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0092",
+    "Genre": "Male",
+    "Age": 18,
+    "Income": 59,
+    "Spending": 41
+  },
+  {
+    "CustomerID": "0093",
+    "Genre": "Male",
+    "Age": 48,
+    "Income": 60,
+    "Spending": 49
+  },
+  {
+    "CustomerID": "0094",
+    "Genre": "Female",
+    "Age": 40,
+    "Income": 60,
+    "Spending": 40
+  },
+  {
+    "CustomerID": "0095",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 60,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0096",
+    "Genre": "Male",
+    "Age": 24,
+    "Income": 60,
+    "Spending": 52
+  },
+  {
+    "CustomerID": "0097",
+    "Genre": "Female",
+    "Age": 47,
+    "Income": 60,
+    "Spending": 47
+  },
+  {
+    "CustomerID": "0098",
+    "Genre": "Female",
+    "Age": 27,
+    "Income": 60,
+    "Spending": 50
+  },
+  {
+    "CustomerID": "0099",
+    "Genre": "Male",
+    "Age": 48,
+    "Income": 61,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0100",
+    "Genre": "Male",
+    "Age": 20,
+    "Income": 61,
+    "Spending": 49
+  },
+  {
+    "CustomerID": "0101",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 62,
+    "Spending": 41
+  },
+  {
+    "CustomerID": "0102",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 62,
+    "Spending": 48
+  },
+  {
+    "CustomerID": "0103",
+    "Genre": "Male",
+    "Age": 67,
+    "Income": 62,
+    "Spending": 59
+  },
+  {
+    "CustomerID": "0104",
+    "Genre": "Male",
+    "Age": 26,
+    "Income": 62,
+    "Spending": 55
+  },
+  {
+    "CustomerID": "0105",
+    "Genre": "Male",
+    "Age": 49,
+    "Income": 62,
+    "Spending": 56
+  },
+  {
+    "CustomerID": "0106",
+    "Genre": "Female",
+    "Age": 21,
+    "Income": 62,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0107",
+    "Genre": "Female",
+    "Age": 66,
+    "Income": 63,
+    "Spending": 50
+  },
+  {
+    "CustomerID": "0108",
+    "Genre": "Male",
+    "Age": 54,
+    "Income": 63,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0109",
+    "Genre": "Male",
+    "Age": 68,
+    "Income": 63,
+    "Spending": 43
+  },
+  {
+    "CustomerID": "0110",
+    "Genre": "Male",
+    "Age": 66,
+    "Income": 63,
+    "Spending": 48
+  },
+  {
+    "CustomerID": "0111",
+    "Genre": "Male",
+    "Age": 65,
+    "Income": 63,
+    "Spending": 52
+  },
+  {
+    "CustomerID": "0112",
+    "Genre": "Female",
+    "Age": 19,
+    "Income": 63,
+    "Spending": 54
+  },
+  {
+    "CustomerID": "0113",
+    "Genre": "Female",
+    "Age": 38,
+    "Income": 64,
+    "Spending": 42
+  },
+  {
+    "CustomerID": "0114",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 64,
+    "Spending": 46
+  },
+  {
+    "CustomerID": "0115",
+    "Genre": "Female",
+    "Age": 18,
+    "Income": 65,
+    "Spending": 48
+  },
+  {
+    "CustomerID": "0116",
+    "Genre": "Female",
+    "Age": 19,
+    "Income": 65,
+    "Spending": 50
+  },
+  {
+    "CustomerID": "0117",
+    "Genre": "Female",
+    "Age": 63,
+    "Income": 65,
+    "Spending": 43
+  },
+  {
+    "CustomerID": "0118",
+    "Genre": "Female",
+    "Age": 49,
+    "Income": 65,
+    "Spending": 59
+  },
+  {
+    "CustomerID": "0119",
+    "Genre": "Female",
+    "Age": 51,
+    "Income": 67,
+    "Spending": 43
+  },
+  {
+    "CustomerID": "0120",
+    "Genre": "Female",
+    "Age": 50,
+    "Income": 67,
+    "Spending": 57
+  },
+  {
+    "CustomerID": "0121",
+    "Genre": "Male",
+    "Age": 27,
+    "Income": 67,
+    "Spending": 56
+  },
+  {
+    "CustomerID": "0122",
+    "Genre": "Female",
+    "Age": 38,
+    "Income": 67,
+    "Spending": 40
+  },
+  {
+    "CustomerID": "0123",
+    "Genre": "Female",
+    "Age": 40,
+    "Income": 69,
+    "Spending": 58
+  },
+  {
+    "CustomerID": "0124",
+    "Genre": "Male",
+    "Age": 39,
+    "Income": 69,
+    "Spending": 91
+  },
+  {
+    "CustomerID": "0125",
+    "Genre": "Female",
+    "Age": 23,
+    "Income": 70,
+    "Spending": 29
+  },
+  {
+    "CustomerID": "0126",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 70,
+    "Spending": 77
+  },
+  {
+    "CustomerID": "0127",
+    "Genre": "Male",
+    "Age": 43,
+    "Income": 71,
+    "Spending": 35
+  },
+  {
+    "CustomerID": "0128",
+    "Genre": "Male",
+    "Age": 40,
+    "Income": 71,
+    "Spending": 95
+  },
+  {
+    "CustomerID": "0129",
+    "Genre": "Male",
+    "Age": 59,
+    "Income": 71,
+    "Spending": 11
+  },
+  {
+    "CustomerID": "0130",
+    "Genre": "Male",
+    "Age": 38,
+    "Income": 71,
+    "Spending": 75
+  },
+  {
+    "CustomerID": "0131",
+    "Genre": "Male",
+    "Age": 47,
+    "Income": 71,
+    "Spending": 9
+  },
+  {
+    "CustomerID": "0132",
+    "Genre": "Male",
+    "Age": 39,
+    "Income": 71,
+    "Spending": 75
+  },
+  {
+    "CustomerID": "0133",
+    "Genre": "Female",
+    "Age": 25,
+    "Income": 72,
+    "Spending": 34
+  },
+  {
+    "CustomerID": "0134",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 72,
+    "Spending": 71
+  },
+  {
+    "CustomerID": "0135",
+    "Genre": "Male",
+    "Age": 20,
+    "Income": 73,
+    "Spending": 5
+  },
+  {
+    "CustomerID": "0136",
+    "Genre": "Female",
+    "Age": 29,
+    "Income": 73,
+    "Spending": 88
+  },
+  {
+    "CustomerID": "0137",
+    "Genre": "Female",
+    "Age": 44,
+    "Income": 73,
+    "Spending": 7
+  },
+  {
+    "CustomerID": "0138",
+    "Genre": "Male",
+    "Age": 32,
+    "Income": 73,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0139",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 74,
+    "Spending": 10
+  },
+  {
+    "CustomerID": "0140",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 74,
+    "Spending": 72
+  },
+  {
+    "CustomerID": "0141",
+    "Genre": "Female",
+    "Age": 57,
+    "Income": 75,
+    "Spending": 5
+  },
+  {
+    "CustomerID": "0142",
+    "Genre": "Male",
+    "Age": 32,
+    "Income": 75,
+    "Spending": 93
+  },
+  {
+    "CustomerID": "0143",
+    "Genre": "Female",
+    "Age": 28,
+    "Income": 76,
+    "Spending": 40
+  },
+  {
+    "CustomerID": "0144",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 76,
+    "Spending": 87
+  },
+  {
+    "CustomerID": "0145",
+    "Genre": "Male",
+    "Age": 25,
+    "Income": 77,
+    "Spending": 12
+  },
+  {
+    "CustomerID": "0146",
+    "Genre": "Male",
+    "Age": 28,
+    "Income": 77,
+    "Spending": 97
+  },
+  {
+    "CustomerID": "0147",
+    "Genre": "Male",
+    "Age": 48,
+    "Income": 77,
+    "Spending": 36
+  },
+  {
+    "CustomerID": "0148",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 77,
+    "Spending": 74
+  },
+  {
+    "CustomerID": "0149",
+    "Genre": "Female",
+    "Age": 34,
+    "Income": 78,
+    "Spending": 22
+  },
+  {
+    "CustomerID": "0150",
+    "Genre": "Male",
+    "Age": 34,
+    "Income": 78,
+    "Spending": 90
+  },
+  {
+    "CustomerID": "0151",
+    "Genre": "Male",
+    "Age": 43,
+    "Income": 78,
+    "Spending": 17
+  },
+  {
+    "CustomerID": "0152",
+    "Genre": "Male",
+    "Age": 39,
+    "Income": 78,
+    "Spending": 88
+  },
+  {
+    "CustomerID": "0153",
+    "Genre": "Female",
+    "Age": 44,
+    "Income": 78,
+    "Spending": 20
+  },
+  {
+    "CustomerID": "0154",
+    "Genre": "Female",
+    "Age": 38,
+    "Income": 78,
+    "Spending": 76
+  },
+  {
+    "CustomerID": "0155",
+    "Genre": "Female",
+    "Age": 47,
+    "Income": 78,
+    "Spending": 16
+  },
+  {
+    "CustomerID": "0156",
+    "Genre": "Female",
+    "Age": 27,
+    "Income": 78,
+    "Spending": 89
+  },
+  {
+    "CustomerID": "0157",
+    "Genre": "Male",
+    "Age": 37,
+    "Income": 78,
+    "Spending": 1
+  },
+  {
+    "CustomerID": "0158",
+    "Genre": "Female",
+    "Age": 30,
+    "Income": 78,
+    "Spending": 78
+  },
+  {
+    "CustomerID": "0159",
+    "Genre": "Male",
+    "Age": 34,
+    "Income": 78,
+    "Spending": 1
+  },
+  {
+    "CustomerID": "0160",
+    "Genre": "Female",
+    "Age": 30,
+    "Income": 78,
+    "Spending": 73
+  },
+  {
+    "CustomerID": "0161",
+    "Genre": "Female",
+    "Age": 56,
+    "Income": 79,
+    "Spending": 35
+  },
+  {
+    "CustomerID": "0162",
+    "Genre": "Female",
+    "Age": 29,
+    "Income": 79,
+    "Spending": 83
+  },
+  {
+    "CustomerID": "0163",
+    "Genre": "Male",
+    "Age": 19,
+    "Income": 81,
+    "Spending": 5
+  },
+  {
+    "CustomerID": "0164",
+    "Genre": "Female",
+    "Age": 31,
+    "Income": 81,
+    "Spending": 93
+  },
+  {
+    "CustomerID": "0165",
+    "Genre": "Male",
+    "Age": 50,
+    "Income": 85,
+    "Spending": 26
+  },
+  {
+    "CustomerID": "0166",
+    "Genre": "Female",
+    "Age": 36,
+    "Income": 85,
+    "Spending": 75
+  },
+  {
+    "CustomerID": "0167",
+    "Genre": "Male",
+    "Age": 42,
+    "Income": 86,
+    "Spending": 20
+  },
+  {
+    "CustomerID": "0168",
+    "Genre": "Female",
+    "Age": 33,
+    "Income": 86,
+    "Spending": 95
+  },
+  {
+    "CustomerID": "0169",
+    "Genre": "Female",
+    "Age": 36,
+    "Income": 87,
+    "Spending": 27
+  },
+  {
+    "CustomerID": "0170",
+    "Genre": "Male",
+    "Age": 32,
+    "Income": 87,
+    "Spending": 63
+  },
+  {
+    "CustomerID": "0171",
+    "Genre": "Male",
+    "Age": 40,
+    "Income": 87,
+    "Spending": 13
+  },
+  {
+    "CustomerID": "0172",
+    "Genre": "Male",
+    "Age": 28,
+    "Income": 87,
+    "Spending": 75
+  },
+  {
+    "CustomerID": "0173",
+    "Genre": "Male",
+    "Age": 36,
+    "Income": 87,
+    "Spending": 10
+  },
+  {
+    "CustomerID": "0174",
+    "Genre": "Male",
+    "Age": 36,
+    "Income": 87,
+    "Spending": 92
+  },
+  {
+    "CustomerID": "0175",
+    "Genre": "Female",
+    "Age": 52,
+    "Income": 88,
+    "Spending": 13
+  },
+  {
+    "CustomerID": "0176",
+    "Genre": "Female",
+    "Age": 30,
+    "Income": 88,
+    "Spending": 86
+  },
+  {
+    "CustomerID": "0177",
+    "Genre": "Male",
+    "Age": 58,
+    "Income": 88,
+    "Spending": 15
+  },
+  {
+    "CustomerID": "0178",
+    "Genre": "Male",
+    "Age": 27,
+    "Income": 88,
+    "Spending": 69
+  },
+  {
+    "CustomerID": "0179",
+    "Genre": "Male",
+    "Age": 59,
+    "Income": 93,
+    "Spending": 14
+  },
+  {
+    "CustomerID": "0180",
+    "Genre": "Male",
+    "Age": 35,
+    "Income": 93,
+    "Spending": 90
+  },
+  {
+    "CustomerID": "0181",
+    "Genre": "Female",
+    "Age": 37,
+    "Income": 97,
+    "Spending": 32
+  },
+  {
+    "CustomerID": "0182",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 97,
+    "Spending": 86
+  },
+  {
+    "CustomerID": "0183",
+    "Genre": "Male",
+    "Age": 46,
+    "Income": 98,
+    "Spending": 15
+  },
+  {
+    "CustomerID": "0184",
+    "Genre": "Female",
+    "Age": 29,
+    "Income": 98,
+    "Spending": 88
+  },
+  {
+    "CustomerID": "0185",
+    "Genre": "Female",
+    "Age": 41,
+    "Income": 99,
+    "Spending": 39
+  },
+  {
+    "CustomerID": "0186",
+    "Genre": "Male",
+    "Age": 30,
+    "Income": 99,
+    "Spending": 97
+  },
+  {
+    "CustomerID": "0187",
+    "Genre": "Female",
+    "Age": 54,
+    "Income": 101,
+    "Spending": 24
+  },
+  {
+    "CustomerID": "0188",
+    "Genre": "Male",
+    "Age": 28,
+    "Income": 101,
+    "Spending": 68
+  },
+  {
+    "CustomerID": "0189",
+    "Genre": "Female",
+    "Age": 41,
+    "Income": 103,
+    "Spending": 17
+  },
+  {
+    "CustomerID": "0190",
+    "Genre": "Female",
+    "Age": 36,
+    "Income": 103,
+    "Spending": 85
+  },
+  {
+    "CustomerID": "0191",
+    "Genre": "Female",
+    "Age": 34,
+    "Income": 103,
+    "Spending": 23
+  },
+  {
+    "CustomerID": "0192",
+    "Genre": "Female",
+    "Age": 32,
+    "Income": 103,
+    "Spending": 69
+  },
+  {
+    "CustomerID": "0193",
+    "Genre": "Male",
+    "Age": 33,
+    "Income": 113,
+    "Spending": 8
+  },
+  {
+    "CustomerID": "0194",
+    "Genre": "Female",
+    "Age": 38,
+    "Income": 113,
+    "Spending": 91
+  },
+  {
+    "CustomerID": "0195",
+    "Genre": "Female",
+    "Age": 47,
+    "Income": 120,
+    "Spending": 16
+  },
+  {
+    "CustomerID": "0196",
+    "Genre": "Female",
+    "Age": 35,
+    "Income": 120,
+    "Spending": 79
+  },
+  {
+    "CustomerID": "0197",
+    "Genre": "Female",
+    "Age": 45,
+    "Income": 126,
+    "Spending": 28
+  },
+  {
+    "CustomerID": "0198",
+    "Genre": "Male",
+    "Age": 32,
+    "Income": 126,
+    "Spending": 74
+  },
+  {
+    "CustomerID": "0199",
+    "Genre": "Male",
+    "Age": 32,
+    "Income": 137,
+    "Spending": 18
+  },
+  {
+    "CustomerID": "0200",
+    "Genre": "Male",
+    "Age": 30,
+    "Income": 137,
+    "Spending": 83
+  }
+]
